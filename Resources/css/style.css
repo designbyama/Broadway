@@ -1,0 +1,55 @@
+body{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.header{
+  background-image:
+  url(../Images/Background.png);
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+a{
+  color: white;
+  font-size: 18px;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 32px;
+}
+
+h3{
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.process p{
+  font-size: 14px;
+}
+
+.division{
+  background-image:
+  url(../Images/Background.png);
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+}
+
+.footer{
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
+
+span{
+  color: white;
+  font-size: 18px;
+  text-align: left;
+}
